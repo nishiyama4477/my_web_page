@@ -4,7 +4,7 @@
 
 7種類のポテトチップスのパッケージを画像認識で判別するXceptionを使った転移学習モデル
 
-https://github.com/nishiyama4477/portfolio
+[https://github.com/nishiyama4477/portfolio](URL)
 
 使用した技術：　Python, Google Colaboratory
 
@@ -12,6 +12,6 @@ https://github.com/nishiyama4477/portfolio
 
 緯度(Latitude)と経度を元にA地点とB地点の距離を求めるWeb App
 
-https://github.com/nishiyama4477/cal_distance_by_longlat
+[https://github.com/nishiyama4477/cal_distance_by_longlat](URL)
 
 使用した技術：　Python, HTML, Bootstrap, flask
